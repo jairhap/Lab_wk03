@@ -1,12 +1,20 @@
-# Lab_wk03
+# Number Row Characters
 * ! - exclamation mark
 * @ - at sign
+* \# - hashtag
 * $ - dollar sign
 * % - percentage sign
 * ^ - caret
 * & - and sign
-* * - asterisk
+* \* - asterisk
 * ( ) - parentheses
+* # Links
+* [JavaScript Introduction] (https://www.w3schools.com/js/js_intro.asp)
+* [SQL Tutorial] (https://www.w3schools.com/sql/default.asp)
 * # Emojis
-* 😀 - grinning face
-* 🤣 - 
+* 🐤 - baby chick
+* 🧸 - teddy bear
+* 🎀 - bow
+* 🦢 - swan
+* 🌹 - rose
+* 🐩 - poodle
