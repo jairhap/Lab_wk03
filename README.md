@@ -18,3 +18,13 @@
 * 🦢 - swan
 * 🌹 - rose
 * 🐩 - poodle
+# Keyboard Shortcuts 
+Shortcuts I frequently use:
+- Command-C (copy)
+- Command-B (bold)
+- Command-I (italic)
+  
+Shortcuts I would like to start using: 
+- Command-Z (undo last action)
+- Command-X (cut selected items)
+- Command-S (save current document)
