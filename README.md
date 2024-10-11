@@ -11,7 +11,7 @@
 * # Links
 * [JavaScript Introduction] (https://www.w3schools.com/js/js_intro.asp)
 * [SQL Tutorial] (https://www.w3schools.com/sql/default.asp)
-* [CLI Commands] (docs/cli.md)
+* [CLI Commands] (Lab_wk03/cli.md)
 * # Emojis
 * 🐤 - baby chick
 * 🧸 - teddy bear
