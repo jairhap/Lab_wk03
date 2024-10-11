@@ -10,4 +10,4 @@
 * rm - removes file/directory
 * cp - copies file/directory 
 * mv - used to move or rename file/directory
-* cat - used to reveal content of a file 
+* cat - used to reveal content of a file
